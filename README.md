@@ -54,9 +54,9 @@ Cada proyecto incluye una interfaz visual interactiva (Streamlit o Pygame) y es 
 
 ---
 
-## link del pdf para visualizar el analis de emociones en streamlit
+## link del aplicacion para visualizar el analis de emociones en streamlit
 - Se presenta solo este desarrollo debido a que la pagina web del punto de vision de para deteccion de gestos con las manos no fue posible debido a librerias que impidieron su implementacion como la que se desarrollo a continuacion
 
-[Ver informe PDF](https://laboratorio-6-c3q5kl5kcqrfnsmqkziuqg.streamlit.app/)
+[Ver app](https://laboratorio-6-c3q5kl5kcqrfnsmqkziuqg.streamlit.app/)
 
 
