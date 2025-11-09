@@ -44,7 +44,7 @@ Cada proyecto incluye una interfaz visual interactiva (Streamlit o Pygame) y es 
 
 ## link del pdf para visualizar el informe del trabajo
 
-[Ver informe PDF](pdf/laboratorio_digitales3_3corte)
+[Ver informe PDF](pdf/laboratorio_digitales3_3corte.pdf)
 
 ---
 
